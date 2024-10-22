@@ -1,4 +1,4 @@
-# git-guide
+# Git-guide
 
 This repository is a guide to using Git for version control. It provides step-by-step instructions and helpful resources for mastering Git commands.
 
